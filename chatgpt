@@ -1,0 +1,28 @@
+open https://chat.openai.com/ and login via google account
+ now page one by one  and see how chat gpt responds to you
+
+Spring program with slf4j
+
+
+pom file for spring with slf4j
+
+
+log4j.properties for spring with slf4j
+
+
+design rest api to add a  customer
+
+
+swagger doc for adding a new customer
+
+
+spring controller for the above endpoint
+
+
+i want it with spring reactive
+
+
+docker file for the above application
+
+
+what is the next step
